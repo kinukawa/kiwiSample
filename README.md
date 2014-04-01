@@ -9,4 +9,4 @@ usage
 $ pod install
 ```
 
-
+open KiwiSample.xcworkspace and press cmd+U.
